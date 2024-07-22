@@ -1,5 +1,5 @@
 {
-  "$id": "https://github.com/openmetadata-schema/blob/master/entity/custom/archetype.json",
+  "$id": "https://github.com/openmetadata-schema/blob/main/entity/custom/archetype.json",
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Archetype",
   "$comment": "@om-entity-type",
